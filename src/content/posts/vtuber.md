@@ -8,15 +8,34 @@ category: "杂谈"
 draft: false
 ---
 
+<style>
+.photo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.photo img {
+    margin: 0;
+    max-width: 100%;
+}
+
+.photo p {
+    font-size: 12px;
+}
+</style>
+
 打开 Bilibili，点开神秘的【虚拟主播】分区或者直接搜索“虚拟主播”、“Vtuber”相关字样，便能看到一群披着二次元 Live 2D 或者 3D 图像的主播在对着屏幕聊天、游戏实况或是视频鉴赏，或是直播，或是视频。评论区或者弹幕里面互动的观众时不时会蹦出一些可能听不懂的黑话：“罕见”，“雏草姬”，“单推”，还有神秘的日语和英语，和一些微妙的 emoji 表情，这便是虚拟主播生态的日常。
 
 ## 一切的开始 💗—— <u>Virtual YouTuber</u>
 
 什么是虚拟主播？我最早的接触开始于 2017 年，那时候 B 站有人搬运来自日本的油管（Youtube）视频频道「**A.I.Channel**」中一位名叫 _绊爱_（キズナアイ Kizuna AI）角色的视频。她最早的介绍视频便是一位有着深棕带粉色挑染头发的少女，身着白粉混搭色衣物，戴有黑色蕾丝边的袖套，对着镜头开始自我介绍。最为显著的特征便是她头顶那只粉红心型的发卡 <del>（疑似为本体）</del> ，和自称世界第一个**Virtual YouTuber**（即 Vtuber, 虚拟油管视频主）的个人简述。
 
-![](https://cdn.cabbage-network.email/4c9c69bdfd6b0adf7afbfbd3df8d0060.webp)
-
-<p align="center">Kizuna AI（キズナアイ、絆（きずな）愛（あい））</p>
+<div class="photo">
+<img src="https://cdn.cabbage-network.email/4c9c69bdfd6b0adf7afbfbd3df8d0060.webp"/>
+<p>Kizuna AI（キズナアイ、絆（きずな）愛（あい））</p>
+</div>
 
 **虚拟主播——依我个人浅显的理解，便是和传统视频博主真人出镜或者仅后台语音出场不同，依靠创造一个 <u>虚拟的、二次元形象的、模仿真人样式的</u> 可动模型展现在镜头前，让观众产生一种一眼上看去和真人博主有所迥异从而新奇的体验。**
 
@@ -24,9 +43,10 @@ draft: false
 
 同年年底，一位名为 _辉夜月_ 的虚拟 Youtuber 开始活动，介于辉夜月在开始活动后不久即在 Bilibili 上开设官方频道，我很快从 B 站的视频中了解到这第二位虚拟主播。
 
-![](https://cdn.cabbage-network.email/dbd37a1c7f8cfe74882579794d80b31c.webp)
-
-<p align="center">Kaguya Luna（輝夜（かぐや）月（るな）））</p>
+<div class="photo">
+<img src="https://cdn.cabbage-network.email/dbd37a1c7f8cfe74882579794d80b31c.webp"/>
+<p>Kaguya Luna（輝夜（かぐや）月（るな）））</p>
+</div>
 
 由于其独特的声线，被日本粉丝亲切称为「首绞めハム太郎（被锁喉的哈姆太郎）」，而我也是被频道中喝了假酒般撒疯的疯女人风格所吸引。当时，她与绊爱联动频繁，混乱的风格与爱的正常营业产生了鲜明的对比。与她的搭档炸 _“贾斯丁·虾伯”_ 和西兰花 _“巴勃罗科力”_ 的配音双簧戏，被人吐槽胸上长了个屁股（Luna 本人对此表示非常伤心），使用名为「齊藤先生」的 App，与随机连线的陌生人聊天并迫害和各种不明所以的模仿搞怪——不仅是最新潮的 Vtuber，作为独特而有整活的角色自然是收获了不少粉丝，自然而然，辉夜月成为了当时我最喜欢、观看次数时长最多的 Vtuber。
 
@@ -54,9 +74,10 @@ draft: false
 
 而在众多直播势 Vtuber 中，最吸引我并在某种程度上颠覆了对传统虚拟主播直播形式的是那位女人—— _神乐 Mea_。
 
-![](https://cdn.cabbage-network.email/03f017073982a8b7e6344adcc9e52098.webp)
-
-<p align="center">Kagura Mea（神楽（かぐら）めあ）</p>
+<div class="photo">
+<img src="https://cdn.cabbage-network.email/03f017073982a8b7e6344adcc9e52098.webp"/>
+<p>Kagura Mea（神楽（かぐら）めあ）</p>
+</div>
 
 上图这一位身着军服，头戴军帽，举止端庄，非常清楚的法国女仆，就是出自画师 Paryi 的虚拟 YouTuber 团体 **Project Paryi (ぱりぷろ)** ，现处于个人势 Vtuber 的神乐 Mea。军服女仆咋乍一看是非常对立的设定，但这种对立正好契合了 Mea。在首次直播前的自我介绍视频中自曝帽子下面是秃头，初次出道直播中一反清楚女仆人设，发表“手冲”等大量问题发言并表演了手冲的技能（迷迭迷迭帕里桑）<del>气的画师日后亲手打断女儿的手</del>，在 _犬山玉姬_ 的 **homolive** 试镜会中自称三围是 90/90/90，诸多行为足以见得她是一位恶俗主播。
 
@@ -76,9 +97,10 @@ Mea 作为个人势，也和一些 Vtuber 联动，除了上文提到的犬山�
 
 促使国内观众看 V 从搬运转向 B 站本土的标志性事件，在我个人看来，是 Hololive 四期生—— _桐生可可_ 的争议言论。
 
-![](https://cdn.cabbage-network.email/f30021566a02f9b85d23b78a6804383d.webp)
-
-<p align="center">Kiryu Coco（桐生（きりゅう）ココ）</p>
+<div class="photo">
+<img src="https://cdn.cabbage-network.email/f30021566a02f9b85d23b78a6804383d.webp"/>
+<p >Kiryu Coco（桐生（きりゅう）ココ）</p>
+</div>
 
 就是这位面相憨憨的金发龙娘，日后谁也不会想到她会被大批愤怒的中国观众冲入直播间刷屏爆破。而对于桐生可可的节目，当时的我算是半个受众，憨憨的美国大龙形象+有口音的日语+日英双语确实带来了新奇的体验。此外，她最知名的节目（对我来说）便是每个工作日早晨的「早安可可」节目，虽然当时在 Youtube 上完全没有翻译字幕的节目我经常看的云里雾里半懂，但是工作日每天极早的直播就像闹钟一般，成为了促使我起床的利器。
 
@@ -100,9 +122,10 @@ Hololive 走了，还热爱 Vtuber 亚文化和直播的观众怎么办？有能
 
 在此，着重表扬一位真正的“伏拉夫”，她就是 _雫るる_。
 
-![](https://cdn.cabbage-network.email/dfac38ed4845725b5ba9b699d5048814.webp)
-
-<p align="center">Shizuku Lulu（雫（しずく） るる）</p>
+<div class="photo">
+<img src="https://cdn.cabbage-network.email/dfac38ed4845725b5ba9b699d5048814.webp"/>
+<p>Shizuku Lulu（雫（しずく） るる）</p>
+</div>
 
 雫るる是一位活跃在 B 站的日 V，早期因为 Hololive 的离去，B 站的日 V 逐步被人追捧，但大头仅限于 P 家，当时的 lulu 还是挣扎于底层的小透明。早期的 lulu 自然也是和其他日 V 一样，进行千篇一律的营业，毫无亮点。在日 V 的“大中文学习时代”，lulu 自然是跟随，但是这时关键的一点来了——这就是 lulu 最伟大的一点，她是真学啊！从早期的狗屁不通大佐口音，到现如今的 HSK6 级通过来中国留学，B 站的观众一直陪伴着她成长，看着她一步一步的爬升，着实是另一番体验。
 
@@ -112,7 +135,9 @@ Hololive 走了，还热爱 Vtuber 亚文化和直播的观众怎么办？有能
 
 说到国内本土的虚拟主播，绕不开的绝对是字节跳动朝夕光年工作室旗下、与乐华娱乐合作打造的虚拟偶像团体 _A-SOUL_。
 
-![](https://cdn.cabbage-network.email/bbf0ac4187b5f4dac55bdab7c4b23e3b.webp)
+<div class="photo">
+<img src="https://cdn.cabbage-network.email/bbf0ac4187b5f4dac55bdab7c4b23e3b.webp"/>
+</div>
 
 可以说，提到虚拟主播，后入坑的小伙伴，绝对能说出它的大名。可以说国 V 大时代，就是 A-SOUL 一手开启的。大多数人虚拟主播的启蒙，可能就是因为偶尔看见了 A-SOUL 的直播，自此一发不可收拾，<del>一发入魂</del>。
 
